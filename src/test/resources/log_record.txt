@@ -1,0 +1,2 @@
+|timestamp|url|userid|
+|2013-09-01 09:00:00UTC|/contact.html|12345|
