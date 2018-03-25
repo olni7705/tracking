@@ -5,11 +5,11 @@ Application to aggregate tracking data
 
 Prerequisites
 -------------
-Maven https://maven.apache.org/
-Java 8
+* Maven https://maven.apache.org/
+* Java 8
 
 
-Prerequisites
+Build and execution
 -------------
 * Build the application jar and run unit tests with `mvn clean install` from the root directory.
 * Run program with `java -jar target/tracking-1.0.0-SNAPSHOT.jar [-h] --log-path LOG_PATH --date-range DATE_RANGE [--output-path OUTPUT_PATH]` 
